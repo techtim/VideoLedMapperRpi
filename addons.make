@@ -1,5 +1,4 @@
 ofxXmlSettings
 ofxNetwork
-ofxMidi
 ofxLedMapper
 ofxDatGui
