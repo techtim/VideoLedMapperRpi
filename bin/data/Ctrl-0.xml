@@ -1,0 +1,49 @@
+<CONF>
+    <colorType>3</colorType>
+    <PixInLed>10.000000000</PixInLed>
+    <UdpSend>1</UdpSend>
+    <IpAddress>127.0.0.1</IpAddress>
+    <Port>3000</Port>
+</CONF>
+<STROKE>
+    <LN>
+        <TYPE>3</TYPE>
+        <fromX>485</fromX>
+        <fromY>355</fromY>
+        <toX>5</toX>
+        <toY>195</toY>
+        <rows>48</rows>
+        <columns>16</columns>
+        <isVertical>1</isVertical>
+    </LN>
+    <LN>
+        <TYPE>3</TYPE>
+        <fromX>485</fromX>
+        <fromY>476</fromY>
+        <toX>5</toX>
+        <toY>315</toY>
+        <rows>48</rows>
+        <columns>16</columns>
+        <isVertical>1</isVertical>
+    </LN>
+    <LN>
+        <TYPE>3</TYPE>
+        <fromX>5</fromX>
+        <fromY>125</fromY>
+        <toX>485</toX>
+        <toY>285</toY>
+        <rows>48</rows>
+        <columns>16</columns>
+        <isVertical>1</isVertical>
+    </LN>
+    <LN>
+        <TYPE>3</TYPE>
+        <fromX>5</fromX>
+        <fromY>5</fromY>
+        <toX>485</toX>
+        <toY>165</toY>
+        <rows>48</rows>
+        <columns>16</columns>
+        <isVertical>1</isVertical>
+    </LN>
+</STROKE>
